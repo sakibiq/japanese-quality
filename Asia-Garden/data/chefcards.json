@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "jiro ono",
+    "picture": "https://www.thefamouspeople.com/profiles/images/jiro-ono-1.jpg",
+    "years_of_experience": 37,
+    "num_recipes": 867,
+    "likes": 755,
+    "recipes": [
+      {
+        "name": "Miso-Glazed Salmon",
+        "ingredients": "4 salmon fillets,3 tablespoons white miso,3 tablespoons mirin,3 tablespoons sake,1 tablespoon sugar,1 teaspoon grated ginger,1 teaspoon grated garlic,1 tablespoon vegetable oil",
+
+        "cooking_method": "1. Preheat the broiler. \n2. In a bowl, mix together the miso, mirin, sake, sugar, ginger, and garlic. \n3. Brush the salmon fillets with the miso mixture. \n4. Place the salmon fillets on a baking sheet and broil for 8-10 minutes, or until the salmon is cooked through."
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": "4 boneless, skinless chicken breasts,1/4 cup soy sauce,1/4 cup mirin,1/4 cup sake,2 tablespoons sugar,1 tablespoon vegetable oil,1 tablespoon grated ginger,1 tablespoon grated garlic",
+
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, mirin, sake, sugar, ginger, and garlic. \n2. Place the chicken breasts in a large resealable plastic bag and pour the marinade over the chicken. \n3. freeze it at least 2 hours, or overnight. \n4. Heat the vegetable oil in a large skillet over medium-high heat. \n5. Remove the chicken from the marinade and discard the marinade. \n6. Cook the chicken in the skillet for 5-6 minutes per side, or until cooked through."
+      },
+      {
+        "name": "Beef Udon Noodle Soup",
+        "ingredients": "1 pound flank steak, sliced thinly,8 ounces udon noodles,6 cups chicken or beef broth,2 tablespoons soy sauce,1 tablespoon mirin,1 tablespoon sake,1 tablespoon vegetable oil,1 tablespoon grated ginger",
+
+        "cooking_method": "1. Cook the udon noodles according to package instructions. \n2. In a large pot, heat the vegetable oil over medium-high heat. \n3. Add the sliced flank steak and cook for 2-3 minutes, or until browned. \n4. Add the ginger and garlic and cook for another minute. \n5. Add the broth, soy sauce, mirin, and sake. \n6. Bring the soup to a simmer and cook for 10-15 minutes, or until the beef is cooked through. \n7. Add the cooked udon noodles like ramen. \n8. Serve the soup hot, garnished with sliced green onions."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natsuko Shoji",
+    "picture": "https://asianjourneys.com.sg/digital_images/large/2020-03-23/natsuko-shoji-of-t-tokyo-is-the-2020-recipient-of-1584929138-7087.png",
+    "years_of_experience": 16,
+    "num_recipes": 433,
+    "likes": 543,
+    "recipes": [
+      {
+        "name": "Tempura",
+        "ingredients": "Shrimp or vegetables,3Egg,3 tablespoons mirin,Water,1 tablespoon sugar,Oil,1 teaspoon grated garlic,Flour",
+
+        "cooking_method": "Dip the shrimp or vegetables in a batter made of flour, egg, and water, and deep-fry them in hot oil until crispy."
+      },
+      {
+        "name": "Sushi",
+        "ingredients": "Sushi rice,Nori (seaweed),Raw fish or seafood,Wasabi,Soy sauce",
+
+        "cooking_method": "Cook the sushi rice, spread it on the nori, add raw fish or seafood, and roll it up tightly. Slice and serve with wasabi and soy sauce."
+      },
+      {
+        "name": "Beef Udon Noodle Soup",
+        "ingredients": "1 pound flank steak, sliced thinly,8 ounces udon noodles,6 cups chicken or beef broth,2 tablespoons soy sauce,1 tablespoon mirin,1 tablespoon sake,1 tablespoon vegetable oil,1 tablespoon grated ginger",
+
+        "cooking_method": "1. Cook the udon noodles according to package instructions. \n2. In a large pot, heat the vegetable oil over medium-high heat. \n3. Add the sliced flank steak and cook for 2-3 minutes, or until browned. \n4. Add the ginger and garlic and cook for another minute. \n5. Add the broth, soy sauce, mirin, and sake. \n6. Bring the soup to a simmer and cook for 10-15 minutes, or until the beef is cooked through. \n7. Add the cooked udon noodles to the pot and stir to combine. \n8. Serve the soup hot, garnished with sliced green onions."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Masaharu Morimoto",
+    "picture": "https://ironchefmorimoto.com/wp-content/uploads/2017/12/morimoto_headshot-1.jpg",
+    "years_of_experience": 25,
+    "num_recipes": 345,
+    "likes": 564,
+    "recipes": [
+      {
+        "name": "Miso-Glazed Salmon",
+        "ingredients": "4 salmon fillets,3 tablespoons white miso,3 tablespoons mirin,3 tablespoons sake,1 tablespoon sugar,1 teaspoon grated ginger,1 teaspoon grated garlic,1 tablespoon vegetable oil",
+
+        "cooking_method": "1. Preheat the broiler. \n2. In a bowl, mix together the miso, mirin, sake, sugar, ginger, and garlic. \n3. Brush the salmon fillets with the miso mixture. \n4. Place the salmon fillets on a baking sheet and broil for 8-10 minutes, or until the salmon is cooked through."
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": "4 boneless, skinless chicken breasts,1/4 cup soy sauce,1/4 cup mirin,1/4 cup sake,2 tablespoons sugar,1 tablespoon vegetable oil,1 tablespoon grated ginger,1 tablespoon grated garlic",
+
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, mirin, sake, sugar, ginger, and garlic. \n2. Place the chicken breasts in a large resealable plastic bag and pour the marinade over the chicken. \n3. Seal the bag and marinate in the refrigerator for at least 2 hours, or overnight. \n4. Heat the vegetable oil in a large skillet over medium-high heat. \n5. Remove the chicken from the marinade and discard the marinade. \n6. Cook the chicken in the skillet for 5-6 minutes per side, or until cooked through."
+      },
+      {
+        "name": "Sushi",
+        "ingredients": "Sushi rice,Nori (seaweed),Raw fish or seafood,Wasabi,Soy sauce",
+
+        "cooking_method": "Cook the sushi rice, spread it on the nori, add raw fish or seafood, and roll it up tightly. Slice and serve with wasabi and soy sauce."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Niki Nakayama",
+    "picture": "https://content.fortune.com/wp-content/uploads/2016/03/nnaka_chef_niki_nakayama.jpg",
+    "years_of_experience": 13,
+    "num_recipes": 311,
+    "likes": 645,
+    "recipes": [
+      {
+        "name": "Ramen",
+        "ingredients": "Ramen noodles,Pork broth,3 tablespoons mirin,3 tablespoons sake,1 tablespoon sugar,1 teaspoon grated ginger,Green onions,Chashu pork",
+
+        "cooking_method": "1. Boil the ramen noodles according to package instructions. 2. Heat the pork or chicken broth in a separate pot. 3. Cook the pork belly or chicken breast and set aside. 4. Cut the green onions and nori seaweed into small pieces. 5. Soft-boil an egg. 6. In a bowl, add the cooked ramen noodles, broth, pork belly or chicken breast, green onions, bean sprouts, nori seaweed, and the soft-boiled egg. Serve hot."
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": "4 boneless, skinless chicken breasts,1/4 cup soy sauce,1/4 cup mirin,1/4 cup sake,2 tablespoons sugar,1 tablespoon vegetable oil,1 tablespoon grated ginger,1 tablespoon grated garlic",
+
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, mirin, sake, sugar, ginger, and garlic. \n2. Place the chicken breasts in a large resealable plastic bag and pour the marinade over the chicken. \n3. Seal the bag and marinate in the refrigerator for at least 2 hours, or overnight. \n4. Heat the vegetable oil in a large skillet over medium-high heat. \n5. Remove the chicken from the marinade and discard the marinade. \n6. Cook the chicken in the skillet for 5-6 minutes per side, or until cooked through."
+      },
+      {
+        "name": "Beef Udon Noodle Soup",
+        "ingredients": "1 pound flank steak, sliced thinly,8 ounces udon noodles,6 cups chicken or beef broth,2 tablespoons soy sauce,1 tablespoon mirin,1 tablespoon sake,1 tablespoon vegetable oil,1 tablespoon grated ginger",
+
+        "cooking_method": "1. Cook the udon noodles according to package instructions. \n2. In a large pot, heat the vegetable oil over medium-high heat. \n3. Add the sliced flank steak and cook for 2-3 minutes, or until browned. \n4. Add the ginger and garlic and cook for another minute. \n5. Add the broth, soy sauce, mirin, and sake. \n6. Bring the soup to a simmer and cook for 10-15 minutes, or until the beef is cooked through. \n7. Add the cooked udon noodles to the pot and stir to combine. \n8. Serve the soup hot, garnished with sliced green onions."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hiroyuki Sakai",
+    "picture": "https://bangkokglutton.files.wordpress.com/2010/04/dsc06921.jpeg",
+    "years_of_experience": 25,
+    "num_recipes": 634,
+    "likes": 453,
+    "recipes": [
+      {
+        "name": "Beef Udon Noodle Soup",
+        "ingredients": "1 pound flank steak, sliced thinly,8 ounces udon noodles,6 cups chicken or beef broth,2 tablespoons soy sauce,1 tablespoon mirin,1 tablespoon sake,1 tablespoon vegetable oil,1 tablespoon grated ginger",
+
+        "cooking_method": "1. Cook the udon noodles according to package instructions. \n2. In a large pot, heat the vegetable oil over medium-high heat. \n3. Add the sliced flank steak and cook for 2-3 minutes, or until browned. \n4. Add the ginger and garlic and cook for another minute. \n5. Add the broth, soy sauce, mirin, and sake. \n6. Bring the soup to a simmer and cook for 10-15 minutes, or until the beef is cooked through. \n7. Add the cooked udon noodles to the pot and stir to combine. \n8. Serve the soup hot, garnished with sliced green onions."
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": "4 boneless, skinless chicken breasts,1/4 cup soy sauce,1/4 cup mirin,1/4 cup sake,2 tablespoons sugar,1 tablespoon vegetable oil,1 tablespoon grated ginger,1 tablespoon grated garlic",
+
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, mirin, sake, sugar, ginger, and garlic. \n2. Place the chicken breasts in a large resealable plastic bag and pour the marinade over the chicken. \n3. Seal the bag and marinate in the refrigerator for at least 2 hours, or overnight. \n4. Heat the vegetable oil in a large skillet over medium-high heat. \n5. Remove the chicken from the marinade and discard the marinade. \n6. Cook the chicken in the skillet for 5-6 minutes per side, or until cooked through."
+      },
+      {
+        "name": "Beef Udon Noodle Soup",
+        "ingredients": "1 pound flank steak, sliced thinly,8 ounces udon noodles,6 cups chicken or beef broth,2 tablespoons soy sauce,1 tablespoon mirin,1 tablespoon sake,1 tablespoon vegetable oil,1 tablespoon grated ginger",
+
+        "cooking_method": "1. Cook the udon noodles according to package instructions. \n2. In a large pot, heat the vegetable oil over medium-high heat. \n3. Add the sliced flank steak and cook for 2-3 minutes, or until browned. \n4. Add the ginger and garlic and cook for another minute. \n5. Add the broth, soy sauce, mirin, and sake. \n6. Bring the soup to a simmer and cook for 10-15 minutes, or until the beef is cooked through. \n7. Add the cooked udon noodles to the pot and stir to combine. \n8. Serve the soup hot, garnished with sliced green onions."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kei Kobayashi",
+    "picture": "https://francesushi.fr/wp-content/uploads/2020/11/Kei-Kobayashi.jpg",
+    "years_of_experience": 14,
+    "num_recipes": 423,
+    "likes": 234,
+    "recipes": [
+      {
+        "name": "Miso-Glazed Salmon",
+        "ingredients": "4 salmon fillets,3 tablespoons white miso,3 tablespoons mirin,3 tablespoons sake,1 tablespoon sugar,1 teaspoon grated ginger,1 teaspoon grated garlic,1 tablespoon vegetable oil",
+
+        "cooking_method": "1. Preheat the broiler. \n2. In a bowl, mix together the miso, mirin, sake, sugar, ginger, and garlic. \n3. Brush the salmon fillets with the miso mixture. \n4. Place the salmon fillets on a baking sheet and broil for 8-10 minutes, or until the salmon is cooked through."
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": "4 boneless, skinless chicken breasts,1/4 cup soy sauce,1/4 cup mirin,1/4 cup sake,2 tablespoons sugar,1 tablespoon vegetable oil,1 tablespoon grated ginger,1 tablespoon grated garlic",
+
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, mirin, sake, sugar, ginger, and garlic. \n2. Place the chicken breasts in a large resealable plastic bag and pour the marinade over the chicken. \n3. Seal the bag and marinate in the refrigerator for at least 2 hours, or overnight. \n4. Heat the vegetable oil in a large skillet over medium-high heat. \n5. Remove the chicken from the marinade and discard the marinade. \n6. Cook the chicken in the skillet for 5-6 minutes per side, or until cooked through."
+      },
+      {
+        "name": "Beef Udon Noodle Soup",
+        "ingredients": "1 pound flank steak, sliced thinly,8 ounces udon noodles,6 cups chicken or beef broth,2 tablespoons soy sauce,1 tablespoon mirin,1 tablespoon sake,1 tablespoon vegetable oil,1 tablespoon grated ginger",
+
+        "cooking_method": "1. Cook the udon noodles according to package instructions. \n2. In a large pot, heat the vegetable oil over medium-high heat. \n3. Add the sliced flank steak and cook for 2-3 minutes, or until browned. \n4. Add the ginger and garlic and cook for another minute. \n5. Add the broth, soy sauce, mirin, and sake. \n6. Bring the soup to a simmer and cook for 10-15 minutes, or until the beef is cooked through. \n7. Add the cooked udon noodles to the pot and stir to combine. \n8. Serve the soup hot, garnished with sliced green onions."
+      }
+    ]
+  }
+]
